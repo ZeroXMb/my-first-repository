@@ -1,0 +1,33 @@
+body {
+	text-align: center;
+	background: rgb(20,15,184);
+background: -moz-linear-gradient(90deg, rgba(20,15,184,1) 15%, rgba(69,82,252,1) 30%, rgba(55,37,190,1) 72%);
+background: -webkit-linear-gradient(90deg, rgba(20,15,184,1) 15%, rgba(69,82,252,1) 30%, rgba(55,37,190,1) 72%);
+background: linear-gradient(90deg, rgba(20,15,184,1) 15%, rgba(69,82,252,1) 30%, rgba(55,37,190,1) 72%);
+}
+ul {
+	list-style: square;
+	display: block;
+	margin: 20px auto;
+	width: 300px;
+	text-align: left;
+}
+
+img {
+	width: 300px;
+}
+
+.comand1 {
+	background: black;
+	color: white;
+	width: 300px;
+	display: block;
+    margin: 0 auto;
+	}
+.comand2 {
+	background: black;
+	color: white;
+	width: 300px;
+	display: block;
+    margin: 0 auto;
+}
